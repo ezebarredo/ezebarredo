@@ -1,16 +1,28 @@
-### Hi there 👋
+Hi there 👋!
 
-<!--
-**ezebarredo/ezebarredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Who I am?
 
-Here are some ideas to get you started:
+- A Jr. Frontend Developer based in Warsaw (Poland).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I'm doing?
+
+- Writing  `JavaScript`, `TypeScript`, `React`, `Zustand`.
+
+#### What are my skill sets?
+
+- 🖥 **Frontend (_I do frontend for fun_):**
+
+  - **Programming:** `JavaScript` • `TypeScript`
+  - **Framework/Library:** `React.js` • `Docusaurus` 
+  - **UI Toolkit:** `Bootstrap` 
+  - **Utils:** `Modular CSS`
+
+- 🎡 **Ecosystem:**
+  - **Version Control:** `Git` • `GitHub`
+
+#### How to reach me?
+
+<a href="https://www.linkedin.com/in/ezequiel-barredo">
+  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
+</a>
+<br/>
