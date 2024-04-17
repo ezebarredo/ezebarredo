@@ -16,8 +16,6 @@ Hi there 👋!
   - **Framework/Library:** `React.js`• `Zustand` 
   - **UI Toolkit:** `Bootstrap` 
   - **Utils:** `Modular CSS`
-
-- 🎡 **Ecosystem:**
   - **Version Control:** `Git` • `GitHub`
 
 #### How to reach me?
