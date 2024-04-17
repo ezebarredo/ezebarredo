@@ -22,7 +22,5 @@ Hi there 👋!
 
 #### How to reach me?
 
-<a href="https://www.linkedin.com/in/ezequiel-barredo">
-  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
-</a>
+<a href="https://www.linkedin.com/in/ezequiel-barredo">Linkedin</a>
 <br/>
