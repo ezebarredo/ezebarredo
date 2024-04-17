@@ -22,5 +22,5 @@ Hi there 👋!
 
 #### How to reach me?
 
-<a href="https://www.linkedin.com/in/ezequiel-barredo">Linkedin</a>
+<a href="https://www.linkedin.com/in/ezequiel-barredo" target="_blank"> ✉️ Linkedin</a>
 <br/>
