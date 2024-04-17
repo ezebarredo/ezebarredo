@@ -6,14 +6,14 @@ Hi there 👋!
 
 #### What I'm doing?
 
-- Writing  `JavaScript`, `TypeScript`, `React`, `Zustand`.
+- Learning JavaScript, TypeScript, React, Zustand, and more with a mentor's guidance.
 
-#### What are my skill sets?
+#### What are my skill sets so far?
 
-- 🖥 **Frontend (_I do frontend for fun_):**
+- 🖥 **Frontend:**
 
-  - **Programming:** `JavaScript` • `TypeScript`
-  - **Framework/Library:** `React.js` • `Docusaurus` 
+  - **Programming:** `JavaScript` • `TypeScript` 
+  - **Framework/Library:** `React.js`• `Zustand` 
   - **UI Toolkit:** `Bootstrap` 
   - **Utils:** `Modular CSS`
 
