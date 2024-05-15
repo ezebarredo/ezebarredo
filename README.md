@@ -2,11 +2,11 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Jr. Frontend Developer based in Warsaw (Poland).
+- A Jr. Frontend Developer based Poland.
 
 #### What I'm doing?
 
-- Learning JavaScript, TypeScript, React, Zustand, and more with a mentor's guidance.
+- Learning JavaScript, TypeScript, React, Zustand, Prisma, Express, next.js and more with a mentor's guidance.
 
 #### What are my skill sets so far?
 
