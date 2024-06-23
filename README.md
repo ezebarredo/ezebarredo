@@ -2,7 +2,7 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Jr. Frontend Developer based Poland.
+- A Jr. Frontend Developer (🇦🇷 & 🇪🇸) based Poland.
 
 #### What I'm doing?
 
